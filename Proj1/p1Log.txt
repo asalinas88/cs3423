@@ -1,0 +1,51 @@
+Enter your choice or CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+[*] Error: Customer already exists.
+Enter your choice or CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+[*] Updating customer file.
+[*] Updating customer file finished.
+Enter your choice or CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+[*] Error: Customer already exists.
+Enter your choice or CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Searching for apartment APT-3D
+File:  ./Data/sweet@xyz.com
+-----------------------
+Email: sweet@xyz.com
+Name: Candy Barr
+Apt: APT-3D
+Balance: 0
+Rent Amt: 900
+Due Date: 2017-10-07
+-----------------------
+Enter your choice or CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Searching for apartment APT-3F
+[*] Error: apartment number not found
+Enter your choice or CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+[*] Updating customer file.
+[*] Updating customer file finished.
+Enter your choice or CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+[*] Error: customer not found
+Enter your choice or CTRL-D to exit
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
