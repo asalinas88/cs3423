@@ -1,0 +1,26 @@
+NAME     FLIGHT      SEATS      TOTAL COST
+Moss    H100.15005     2                220
+Moss    H222.15005     2                340
+Moss    H200.15010     2                150
+Moss    H333.15010     2                400
+                         Total 1110                          
+Corn    H222.15005    12               1700
+Corn    H333.15010     7               1000
+                         Total 2700                          
+Loafer  H444.15001     1                125
+Loafer  H333.15010     8                200
+                         Total 325                           
+Sandler  H100.15005     5                330
+Sandler  H222.15005    15                510
+Sandler  H333.15010    11                600
+                         Total 1440                          
+Toast   H333.15010    13                400
+Toast   H444.15015     2                250
+                         Total 650                           
+Flight     Total Seats
+H333.15010         13
+H444.15001          1
+H200.15010          2
+H444.15015          2
+H222.15005         15
+H100.15005          5
